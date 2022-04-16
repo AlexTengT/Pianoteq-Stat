@@ -1,6 +1,5 @@
 #Pianoteq-Stat
-For those of you who practices piano by Pianoteq. This script will generate report showing you how you are using Pianoteq.
-
+For those of you who practices piano by Pianoteq. This script will generate report showing you the time you played by Pianoteq.
 
 ## You will know:
 * How long you have played **today**, or any **given day**, or **life-time**.
@@ -10,7 +9,7 @@ For those of you who practices piano by Pianoteq. This script will generate repo
 ![](readme-assets/report_screenshot_1.png)
 
 ## Getting Started
-You may need intro-level Python skill to use the script.
+You may need intro-level Python skill to run the script.
 
 ### Before Installing
 `pianoteq-stat` generate report by a built-in function in Pianoteq called `MIDI Archiver`. The function records all the notes you 
